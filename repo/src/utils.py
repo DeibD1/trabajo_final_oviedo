@@ -5,7 +5,7 @@ Funciones auxiliares para el proyecto
 
 from typing import List
 from datetime import datetime, timedelta
-from models import Proyecto, Tarea
+from src.models import Proyecto, Tarea
 
 
 class ProyectoAnalytics:

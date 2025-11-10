@@ -1,0 +1,82 @@
+{
+  "proyectos": [
+    {
+      "proyecto_id": "703c45c8-d449-4039-8f6f-ef522d6bd596",
+      "nombre": "test",
+      "descripcion": "tes",
+      "propietario_id": null,
+      "columnas": [
+        {
+          "columna_id": "ebf16119-9202-4e1d-8f24-467063456482",
+          "nombre": "Pendiente",
+          "orden": 0,
+          "tareas": [],
+          "fecha_creacion": "2025-11-10T09:56:44.328450"
+        },
+        {
+          "columna_id": "868d1740-9a78-408a-a600-26e3d49d4763",
+          "nombre": "En Progreso",
+          "orden": 1,
+          "tareas": [
+            {
+              "tarea_id": "26fce6ec-27fa-4eb8-8e4b-91d0984d4178",
+              "titulo": "t",
+              "descripcion": "t",
+              "prioridad": "Alta",
+              "asignado_a": "davi",
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-10T09:57:09.352745",
+              "fecha_modificacion": "2025-11-10T09:57:09.352745",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            }
+          ],
+          "fecha_creacion": "2025-11-10T09:56:44.328450"
+        },
+        {
+          "columna_id": "936f5613-8b07-4e64-80f5-0b0f9cc55bb1",
+          "nombre": "Completada",
+          "orden": 2,
+          "tareas": [],
+          "fecha_creacion": "2025-11-10T09:56:44.328450"
+        }
+      ],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T09:56:44.328450",
+      "fecha_modificacion": "2025-11-10T09:56:44.328450"
+    },
+    {
+      "proyecto_id": "a0a11756-b8fa-4ab1-8520-e2c5c95ba937",
+      "nombre": "rt",
+      "descripcion": "t",
+      "propietario_id": null,
+      "columnas": [
+        {
+          "columna_id": "56bcba09-b5ed-432e-83fb-517c782595d5",
+          "nombre": "Pendiente",
+          "orden": 0,
+          "tareas": [],
+          "fecha_creacion": "2025-11-10T10:22:02.645378"
+        },
+        {
+          "columna_id": "c91e7620-3152-470b-b6b9-a28b03188c95",
+          "nombre": "En Progreso",
+          "orden": 1,
+          "tareas": [],
+          "fecha_creacion": "2025-11-10T10:22:02.645378"
+        },
+        {
+          "columna_id": "0f093bbe-455a-4324-9d38-6f3139e9c5a3",
+          "nombre": "Completada",
+          "orden": 2,
+          "tareas": [],
+          "fecha_creacion": "2025-11-10T10:22:02.645378"
+        }
+      ],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T10:22:02.645378",
+      "fecha_modificacion": "2025-11-10T10:22:02.645378"
+    }
+  ],
+  "usuarios": []
+}
