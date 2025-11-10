@@ -118,3 +118,4 @@ class StorageManager:
         usuarios = datos.get("usuarios", [])
         datos["usuarios"] = [u for u in usuarios if u["usuario_id"] != usuario_id]
         return self.guardar_datos(datos)
+        
