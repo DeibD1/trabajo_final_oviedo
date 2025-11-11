@@ -114,14 +114,100 @@
           "columna_id": "bba65061-84a0-4e0c-87b8-bd877f33629a",
           "nombre": "Pendiente",
           "orden": 0,
-          "tareas": [],
+          "tareas": [
+            {
+              "tarea_id": "5a6bbc7d-e75b-4f65-85c7-358cf477b652",
+              "titulo": "xd",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-10T13:43:36.755124",
+              "fecha_modificacion": "2025-11-10T13:43:36.755124",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "cffefeb2-8f5e-45b6-8ffc-2842e6a547e8",
+              "titulo": "login1",
+              "descripcion": "",
+              "prioridad": "Baja",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-10T14:06:10.489168",
+              "fecha_modificacion": "2025-11-10T14:06:10.489168",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "2a888e99-b7c5-4520-bce2-c67215b2901c",
+              "titulo": "login2",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-10T14:06:21.500749",
+              "fecha_modificacion": "2025-11-10T14:06:21.500749",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "578bbca3-7e31-420a-a5ed-b19719425924",
+              "titulo": "login",
+              "descripcion": "",
+              "prioridad": "Alta",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-10T14:06:33.355506",
+              "fecha_modificacion": "2025-11-10T14:06:33.355506",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "ce0c07f4-128d-401c-9ecf-d4d6e8b16f94",
+              "titulo": "login3",
+              "descripcion": "",
+              "prioridad": "Urgente",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-10T14:06:44.517769",
+              "fecha_modificacion": "2025-11-10T14:06:44.517769",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            }
+          ],
           "fecha_creacion": "2025-11-10T00:01:07.782593"
         },
         {
           "columna_id": "ccfc1326-21c3-4827-a13c-8bd90928c84b",
           "nombre": "En Progreso",
           "orden": 1,
-          "tareas": [],
+          "tareas": [
+            {
+              "tarea_id": "58aa7aa9-fbe7-43df-82e1-9d2cd39da94a",
+              "titulo": "xd",
+              "descripcion": "",
+              "prioridad": "Baja",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-10T13:34:20.057958",
+              "fecha_modificacion": "2025-11-10T13:34:20.057958",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "c87ef56f-aa41-40dc-9841-01ead6f75b7e",
+              "titulo": "nuevo",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-10T13:44:21.692333",
+              "fecha_modificacion": "2025-11-10T13:44:21.692333",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            }
+          ],
           "fecha_creacion": "2025-11-10T00:01:07.782593"
         },
         {
@@ -259,6 +345,302 @@
       "miembros": [],
       "fecha_creacion": "2025-11-10T00:21:57.308438",
       "fecha_modificacion": "2025-11-10T00:21:57.308438"
+    },
+    {
+      "proyecto_id": "12868bf6-ac6a-4d83-8e93-50466f95e896",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T13:15:21.372029",
+      "fecha_modificacion": "2025-11-10T13:15:21.372029"
+    },
+    {
+      "proyecto_id": "04b652b8-faa6-4e3f-b2b3-346ca483c682",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T13:43:13.174176",
+      "fecha_modificacion": "2025-11-10T13:43:13.174176"
+    },
+    {
+      "proyecto_id": "48d50fab-61d2-4c0e-8763-0d5f803625ba",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T13:44:46.574322",
+      "fecha_modificacion": "2025-11-10T13:44:46.574322"
+    },
+    {
+      "proyecto_id": "80a212f8-0ecc-40c9-af0f-ddb44f0dc60b",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T13:48:30.017078",
+      "fecha_modificacion": "2025-11-10T13:48:30.017078"
+    },
+    {
+      "proyecto_id": "8cc01880-1f71-4826-806d-144877880ecd",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T13:52:25.182018",
+      "fecha_modificacion": "2025-11-10T13:52:25.182018"
+    },
+    {
+      "proyecto_id": "e3eb2aba-29eb-436c-80b3-f7ed2f677a52",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T13:52:49.487969",
+      "fecha_modificacion": "2025-11-10T13:52:49.487969"
+    },
+    {
+      "proyecto_id": "c2bb6be7-9f89-4e90-b1e6-3687b08415b3",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:01:02.349661",
+      "fecha_modificacion": "2025-11-10T14:01:02.349661"
+    },
+    {
+      "proyecto_id": "449ec556-64bf-494c-bf34-6e661e0ee78a",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:03:15.025387",
+      "fecha_modificacion": "2025-11-10T14:03:15.025387"
+    },
+    {
+      "proyecto_id": "ee3da7cd-d8bf-4f6b-b160-85f3b3e353c6",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:05:31.645997",
+      "fecha_modificacion": "2025-11-10T14:05:31.645997"
+    },
+    {
+      "proyecto_id": "c86fa5a9-e6b3-4d4b-976d-260a90687378",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:07:56.279262",
+      "fecha_modificacion": "2025-11-10T14:07:56.279262"
+    },
+    {
+      "proyecto_id": "ae759638-a13c-4789-ae88-86c7c3e0c92e",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:11:52.430867",
+      "fecha_modificacion": "2025-11-10T14:11:52.430867"
+    },
+    {
+      "proyecto_id": "127764c3-08e1-48d3-85b7-3c6dd02af346",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:39:27.177269",
+      "fecha_modificacion": "2025-11-10T14:39:27.177269"
+    },
+    {
+      "proyecto_id": "92e3418a-12e7-4c7a-80f7-ee4546b5bb21",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:40:17.081959",
+      "fecha_modificacion": "2025-11-10T14:40:17.081959"
+    },
+    {
+      "proyecto_id": "7a8b22bc-22ea-4384-a0ed-90ef8919ccba",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:41:29.755260",
+      "fecha_modificacion": "2025-11-10T14:41:29.755260"
+    },
+    {
+      "proyecto_id": "cb88b388-a0ef-4d4f-a5f0-41870161dd16",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:43:01.483596",
+      "fecha_modificacion": "2025-11-10T14:43:01.483596"
+    },
+    {
+      "proyecto_id": "86382c8a-7ede-48f1-9036-d14e7a428a7c",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:45:03.607004",
+      "fecha_modificacion": "2025-11-10T14:45:03.607004"
+    },
+    {
+      "proyecto_id": "63d01234-5e26-4e79-a321-242c72a23eb9",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T14:48:19.062171",
+      "fecha_modificacion": "2025-11-10T14:48:19.062171"
+    },
+    {
+      "proyecto_id": "bf49cde6-3830-4e40-ad5d-cc10cfd0ead1",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-10T18:02:12.037331",
+      "fecha_modificacion": "2025-11-10T18:02:12.038331"
+    },
+    {
+      "proyecto_id": "2f8012df-8df6-4a3a-bfa2-8b23c149f156",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T16:39:12.918602",
+      "fecha_modificacion": "2025-11-11T16:39:12.918602"
+    },
+    {
+      "proyecto_id": "81dce79f-6542-46ed-83ca-286b7dcbad8f",
+      "nombre": "1",
+      "descripcion": "Proyecto Final",
+      "propietario_id": null,
+      "columnas": [
+        {
+          "columna_id": "e8bb9eb7-ad0d-453c-90eb-b2f086e9e39a",
+          "nombre": "Pendiente",
+          "orden": 0,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:40:20.934202"
+        },
+        {
+          "columna_id": "31a12b38-2885-4659-bff2-0d7bda7c8532",
+          "nombre": "En Progreso",
+          "orden": 1,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:40:20.934202"
+        },
+        {
+          "columna_id": "17bc5192-a1fd-40a9-be40-875c289b585d",
+          "nombre": "Completada",
+          "orden": 2,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:40:20.934202"
+        }
+      ],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T16:40:20.934202",
+      "fecha_modificacion": "2025-11-11T16:40:20.934202"
+    },
+    {
+      "proyecto_id": "62d9f335-3647-46d0-984c-1a1b96f5d074",
+      "nombre": "Proyecto 1",
+      "descripcion": "",
+      "propietario_id": null,
+      "columnas": [
+        {
+          "columna_id": "9010ac35-cb1a-4e43-9a3c-ccd71433b277",
+          "nombre": "Pendiente",
+          "orden": 0,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:45:52.408403"
+        },
+        {
+          "columna_id": "475fe531-bcd6-429e-a2db-067a1382a16f",
+          "nombre": "En Progreso",
+          "orden": 1,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:45:52.408403"
+        },
+        {
+          "columna_id": "322224f4-e2d7-4c25-8097-83c3996fffeb",
+          "nombre": "Completada",
+          "orden": 2,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:45:52.408403"
+        }
+      ],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T16:45:52.408403",
+      "fecha_modificacion": "2025-11-11T16:45:52.408403"
+    },
+    {
+      "proyecto_id": "d464f27e-e41a-4174-b3d3-377dfbd2ae28",
+      "nombre": "Proyecto 2",
+      "descripcion": "",
+      "propietario_id": null,
+      "columnas": [
+        {
+          "columna_id": "d33c9489-545e-4310-b1a0-ce039be432f5",
+          "nombre": "Pendiente",
+          "orden": 0,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:46:07.856630"
+        },
+        {
+          "columna_id": "fda0dbb1-0b77-4727-a553-0bbbe6f152cf",
+          "nombre": "En Progreso",
+          "orden": 1,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:46:07.857215"
+        },
+        {
+          "columna_id": "b8b37db9-688f-4a32-8562-01299cab35e5",
+          "nombre": "Completada",
+          "orden": 2,
+          "tareas": [],
+          "fecha_creacion": "2025-11-11T16:46:07.857215"
+        }
+      ],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T16:46:07.856630",
+      "fecha_modificacion": "2025-11-11T16:46:07.857215"
+    },
+    {
+      "proyecto_id": "de188347-d6b4-4650-a9ed-3eaa048d4b96",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T16:58:05.794812",
+      "fecha_modificacion": "2025-11-11T16:58:05.794812"
     }
   ],
   "usuarios": [
@@ -447,6 +829,366 @@
       "nombre": "jose",
       "email": "alexander.suarezg@gmail.com",
       "fecha_creacion": "2025-11-10T00:21:57.193500"
+    },
+    {
+      "usuario_id": "f485b07e-b127-4266-8e2d-b632e15b1380",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:15:21.078455"
+    },
+    {
+      "usuario_id": "ae4d074e-4357-4eb7-904c-40e09d15ee02",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:15:21.092472"
+    },
+    {
+      "usuario_id": "372560f6-d1f5-4c61-bc98-55132009314f",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T13:15:21.188798"
+    },
+    {
+      "usuario_id": "e14debc7-7bda-428e-b65d-4bf54dbd8075",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:43:12.885292"
+    },
+    {
+      "usuario_id": "142242ad-59bd-41a4-947d-ebec5247eec8",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:43:12.925899"
+    },
+    {
+      "usuario_id": "49031554-9a02-4328-82b2-342e9ad307aa",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T13:43:12.997302"
+    },
+    {
+      "usuario_id": "23aaffd1-0b05-4540-928e-6495b3ff9f21",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:44:46.298793"
+    },
+    {
+      "usuario_id": "49946f26-959b-4c8a-98a7-2b32912021ef",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:44:46.343343"
+    },
+    {
+      "usuario_id": "cbab9d5a-7bbf-4872-b59f-b95f8b3b7ce3",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T13:44:46.415558"
+    },
+    {
+      "usuario_id": "11d28f14-eef5-41ce-926f-bd8544166e8a",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:48:29.744604"
+    },
+    {
+      "usuario_id": "624b35f7-8709-41ca-ae2d-75f80c775497",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:48:29.755650"
+    },
+    {
+      "usuario_id": "2a4a2c61-4333-4ea8-83ea-88d2476576f5",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T13:48:29.852689"
+    },
+    {
+      "usuario_id": "3be4e2eb-b9ae-4985-b84d-26966870fe65",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:52:24.694179"
+    },
+    {
+      "usuario_id": "153ca776-7b35-4e3e-aed0-ccb3ffc6a84e",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:52:24.703163"
+    },
+    {
+      "usuario_id": "4c2c9df0-7dff-4bf5-b4df-e7ca9af1aabc",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T13:52:24.954599"
+    },
+    {
+      "usuario_id": "05e0a59c-4596-41ed-aacf-f80e3f79f3df",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:52:49.225095"
+    },
+    {
+      "usuario_id": "abb53022-a601-4624-85b7-8a38e2d2cd11",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T13:52:49.230079"
+    },
+    {
+      "usuario_id": "dfebedf4-70c1-4e9f-a817-14afff2610de",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T13:52:49.320247"
+    },
+    {
+      "usuario_id": "3243b20c-040e-4c41-82c4-4ccf349a9602",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:01:02.067767"
+    },
+    {
+      "usuario_id": "fa0a2b45-8a2b-4523-a01a-8b165f3e63c0",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:01:02.077832"
+    },
+    {
+      "usuario_id": "16dd247d-e759-4a73-b555-f2a677af4ca6",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:01:02.181657"
+    },
+    {
+      "usuario_id": "85c76114-c7c1-4a2f-b358-3fea1588f3ae",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:03:14.762479"
+    },
+    {
+      "usuario_id": "e16131ae-f778-460d-80f1-b174ea47bca4",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:03:14.770492"
+    },
+    {
+      "usuario_id": "e91d1eb0-8ae8-42d5-a57d-d137430a4dcb",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:03:14.867498"
+    },
+    {
+      "usuario_id": "c02e7601-7e13-40ab-82d1-c57f0ba01480",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:05:31.324536"
+    },
+    {
+      "usuario_id": "c769a44b-2c12-4edb-af35-d8882b6b79b6",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:05:31.334077"
+    },
+    {
+      "usuario_id": "cc81b11a-d884-4583-8c27-f7616092760d",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:05:31.461657"
+    },
+    {
+      "usuario_id": "b9a15af3-0196-467b-a856-37ba0e5e5700",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:07:56.005446"
+    },
+    {
+      "usuario_id": "6c70a738-355c-4aba-88cc-72ffe5edb9c5",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:07:56.047441"
+    },
+    {
+      "usuario_id": "a803bf8d-d886-4bb8-9e1e-572d29d4be01",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:07:56.119838"
+    },
+    {
+      "usuario_id": "305405d6-6806-4a2a-af07-5dd4770c9a68",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:11:52.057033"
+    },
+    {
+      "usuario_id": "02917ebf-b6a1-4f14-a2ad-8e386acea449",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:11:52.066013"
+    },
+    {
+      "usuario_id": "be6fb849-3a73-485a-a0bc-6f0a6057d08e",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:11:52.204267"
+    },
+    {
+      "usuario_id": "639c8edb-ffc8-4ec3-9deb-6e913714d208",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:39:27.007112"
+    },
+    {
+      "usuario_id": "efb707c9-8b01-437a-a65a-d7fa5bf6a852",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:39:27.028129"
+    },
+    {
+      "usuario_id": "d86ee764-fdd7-4b3b-bc9f-0df9a40a33cb",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:39:27.081254"
+    },
+    {
+      "usuario_id": "b38cce37-0cb6-4be8-811c-507a8128ce79",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:40:16.922864"
+    },
+    {
+      "usuario_id": "65a9bb48-1499-457c-9eda-9eb76de07043",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:40:16.928862"
+    },
+    {
+      "usuario_id": "f73dee52-97be-44a0-bb80-3bff00f163e9",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:40:16.986416"
+    },
+    {
+      "usuario_id": "14455e94-8a0f-4693-aa6e-9f32955830e3",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:41:29.600811"
+    },
+    {
+      "usuario_id": "8c37e879-5d8f-4790-a617-bf2049a3a4cf",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:41:29.605812"
+    },
+    {
+      "usuario_id": "1da0537a-96c4-4c1e-b400-f04322294a9a",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:41:29.669181"
+    },
+    {
+      "usuario_id": "a1e94da2-40d8-41c6-9f31-ec2d55897433",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:43:01.323915"
+    },
+    {
+      "usuario_id": "f4d7610b-8cea-4a65-a32d-2bca96affb4a",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:43:01.330924"
+    },
+    {
+      "usuario_id": "2e8939c5-b852-445b-8dff-38ec37967994",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:43:01.387493"
+    },
+    {
+      "usuario_id": "29b72707-4a28-4c04-9230-8cbd39a60a90",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:45:03.457670"
+    },
+    {
+      "usuario_id": "dceb3b16-3967-4b85-b2e3-c51cf7455e6a",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:45:03.462644"
+    },
+    {
+      "usuario_id": "2717a018-0aa0-4f8e-8509-d18e7b2b8784",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:45:03.516878"
+    },
+    {
+      "usuario_id": "68a28298-05f1-4854-a22e-c88d27cde6c1",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:48:18.887127"
+    },
+    {
+      "usuario_id": "ba597a55-ec7f-4878-bb36-8dab19099358",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T14:48:18.891123"
+    },
+    {
+      "usuario_id": "d5ed4898-0c98-4170-9a28-0f0535872ef0",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T14:48:18.951639"
+    },
+    {
+      "usuario_id": "00f714ff-20f8-42fd-831b-e2518b5ed061",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T18:02:11.720922"
+    },
+    {
+      "usuario_id": "903c0f20-e872-4a8f-ba78-47df16d32241",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-10T18:02:11.737011"
+    },
+    {
+      "usuario_id": "d6d5855e-20a7-4ee5-88ba-af0bd332c611",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-10T18:02:11.859900"
+    },
+    {
+      "usuario_id": "10d71dbd-9c1b-4340-b6de-50433406b678",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T16:39:12.630833"
+    },
+    {
+      "usuario_id": "e3804f2e-aa81-40ca-a2f2-928aff709c45",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T16:39:12.649855"
+    },
+    {
+      "usuario_id": "b860b345-ad2f-4234-8853-d626316227ce",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-11T16:39:12.750489"
+    },
+    {
+      "usuario_id": "a817d4a6-fe92-4728-947e-efbe818979e7",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T16:58:05.468887"
+    },
+    {
+      "usuario_id": "6fc6623d-6ca4-491a-a40e-267ecc3780b8",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T16:58:05.523301"
+    },
+    {
+      "usuario_id": "b05caaf8-e86e-4fed-b5ae-8049e85e545c",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-11T16:58:05.631784"
     }
   ]
 }
