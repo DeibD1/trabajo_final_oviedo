@@ -1,0 +1,80 @@
+{
+  "proyectos": [
+    {
+      "proyecto_id": "p1",
+      "nombre": "Proyecto Búsqueda Vacía",
+      "descripcion": "",
+      "propietario_id": null,
+      "columnas": [
+        {
+          "columna_id": "8d38a10a-4ba8-4bdf-afe1-360d04ebe6d9",
+          "nombre": "Pendiente",
+          "orden": 0,
+          "tareas": [
+            {
+              "tarea_id": "t1",
+              "titulo": "Tarea A",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.397509",
+              "fecha_modificacion": "2025-11-11T20:25:40.397509",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "t2",
+              "titulo": "Tarea B",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.397509",
+              "fecha_modificacion": "2025-11-11T20:25:40.397509",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            }
+          ],
+          "fecha_creacion": "2025-11-11T20:25:40.397509"
+        },
+        {
+          "columna_id": "be3ee9e8-0635-491c-acdc-76633a8ae7e4",
+          "nombre": "En Progreso",
+          "orden": 1,
+          "tareas": [
+            {
+              "tarea_id": "t3",
+              "titulo": "Tarea C",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.397509",
+              "fecha_modificacion": "2025-11-11T20:25:40.397509",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "t4",
+              "titulo": "Tarea D",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.397509",
+              "fecha_modificacion": "2025-11-11T20:25:40.397509",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            }
+          ],
+          "fecha_creacion": "2025-11-11T20:25:40.397509"
+        }
+      ],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T20:25:40.397509",
+      "fecha_modificacion": "2025-11-11T20:25:40.397509"
+    }
+  ],
+  "usuarios": []
+}

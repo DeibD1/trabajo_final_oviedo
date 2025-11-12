@@ -1,0 +1,56 @@
+{
+  "proyectos": [
+    {
+      "proyecto_id": "p1",
+      "nombre": "Proyecto Vis",
+      "descripcion": "",
+      "propietario_id": null,
+      "columnas": [
+        {
+          "columna_id": "4fc5d4da-1d38-459b-aeac-196c064a0d6f",
+          "nombre": "Pendiente",
+          "orden": 0,
+          "tareas": [
+            {
+              "tarea_id": "t1",
+              "titulo": "Tarea 1",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.376264",
+              "fecha_modificacion": "2025-11-11T20:25:40.376264",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            }
+          ],
+          "fecha_creacion": "2025-11-11T20:25:40.376264"
+        },
+        {
+          "columna_id": "0262624f-7a10-49a8-931e-29e082e54d6f",
+          "nombre": "En Progreso",
+          "orden": 1,
+          "tareas": [
+            {
+              "tarea_id": "t2",
+              "titulo": "Tarea 2",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.376264",
+              "fecha_modificacion": "2025-11-11T20:25:40.376264",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            }
+          ],
+          "fecha_creacion": "2025-11-11T20:25:40.376264"
+        }
+      ],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T20:25:40.376264",
+      "fecha_modificacion": "2025-11-11T20:25:40.376264"
+    }
+  ],
+  "usuarios": []
+}

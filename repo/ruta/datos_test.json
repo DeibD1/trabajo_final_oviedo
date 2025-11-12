@@ -1,0 +1,60 @@
+{
+  "proyectos": [
+    {
+      "proyecto_id": "proyecto1",
+      "nombre": "Proyecto Test",
+      "descripcion": "",
+      "propietario_id": null,
+      "columnas": [
+        {
+          "columna_id": "0951601b-98af-463c-bf48-582360344a52",
+          "nombre": "Pendiente",
+          "orden": 0,
+          "tareas": [
+            {
+              "tarea_id": "79458d3d-c428-4a9e-b22e-118aea0ac8f3",
+              "titulo": "Pago pendiente",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.357488",
+              "fecha_modificacion": "2025-11-11T20:25:40.357488",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "613535d0-df95-48c5-b3a0-08d1b388010d",
+              "titulo": "Revisar módulo de facturación",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.357488",
+              "fecha_modificacion": "2025-11-11T20:25:40.357488",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            },
+            {
+              "tarea_id": "0d9023d1-8cf4-464e-85f8-2c0ccdaa56a0",
+              "titulo": "Pago automático",
+              "descripcion": "",
+              "prioridad": "Media",
+              "asignado_a": null,
+              "estado": "Pendiente",
+              "fecha_creacion": "2025-11-11T20:25:40.357488",
+              "fecha_modificacion": "2025-11-11T20:25:40.357488",
+              "fecha_vencimiento": null,
+              "etiquetas": []
+            }
+          ],
+          "fecha_creacion": "2025-11-11T20:25:40.357488"
+        }
+      ],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T20:25:40.357488",
+      "fecha_modificacion": "2025-11-11T20:25:40.357488"
+    }
+  ],
+  "usuarios": []
+}
