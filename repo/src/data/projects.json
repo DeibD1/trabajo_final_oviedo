@@ -641,6 +641,26 @@
       "miembros": [],
       "fecha_creacion": "2025-11-11T16:58:05.794812",
       "fecha_modificacion": "2025-11-11T16:58:05.794812"
+    },
+    {
+      "proyecto_id": "e75bcdf1-562e-482d-85e1-a65e69c20ffc",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T17:52:23.374942",
+      "fecha_modificacion": "2025-11-11T17:52:23.374942"
+    },
+    {
+      "proyecto_id": "53a38ef9-32a6-4c2a-a982-e9832c3c9baa",
+      "nombre": "Hormiga dc",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T18:09:54.034821",
+      "fecha_modificacion": "2025-11-11T18:09:54.034821"
     }
   ],
   "usuarios": [
@@ -1189,6 +1209,42 @@
       "nombre": "jose",
       "email": "alexander.suarezg@gmail.com",
       "fecha_creacion": "2025-11-11T16:58:05.631784"
+    },
+    {
+      "usuario_id": "6c364350-64a8-47a7-b8b3-c465683974f6",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T17:52:22.836638"
+    },
+    {
+      "usuario_id": "c8575955-66ce-4b8d-a0e4-7866c664cb4f",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T17:52:22.867688"
+    },
+    {
+      "usuario_id": "03ac019a-f2aa-411f-b93e-90eb67283a5d",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-11T17:52:23.071401"
+    },
+    {
+      "usuario_id": "5eeef45f-ad98-4ac0-b87d-e3eb1968c929",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T18:09:53.720305"
+    },
+    {
+      "usuario_id": "c83a30b6-f3f0-4c14-af32-2b7252c0543f",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T18:09:53.752350"
+    },
+    {
+      "usuario_id": "8eee7d74-f62a-48c4-b0ff-9eba17a699a4",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-11T18:09:53.858415"
     }
   ]
 }
