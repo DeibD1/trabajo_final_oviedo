@@ -110,14 +110,24 @@ def test_crear_usuario_rechaza_id_repetido():
     
 # CASO DE PRUEBA PM12-TC-14
 def test_eliminar_usuario_existente():
+    # Se crea una instancia de storage
     storage = StorageManager()
+    # Se crea un usuario con nombre y email
     usuario1 = Usuario("jorge", "jorgemendoza@gmail.com")
-    r1 = storage.guardar_usuario(usuario1)
+    #Se guarda el usuario
+    storage.guardar_usuario(usuario1)
+    #Se guardar el usuario id
     usuario_id=usuario1.usuario_id
+    #Se elimina el usuario por el id
     storage.eliminar_usuario(usuario_id)
+    #Se guardan los datos
     datos = storage.cargar_datos()
+    #Se enlistan los usuarios
     usuarios = datos.get("usuarios", [])
+    #Se obtienen los id de los usuarios
     ids = [u["usuario_id"] for u in usuarios]
+    #Se cuentan los id del usuario 1 
     count = ids.count(usuario1.usuario_id)
+    #Si el id es igual a 0 quiere decir que el usuario realmente se elimino
     assert count == 0, "BUG: el sistema no elimina correctamente los usuarios"
     

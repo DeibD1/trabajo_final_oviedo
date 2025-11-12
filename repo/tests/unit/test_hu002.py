@@ -93,10 +93,15 @@ def test_validar_creacion_proyecto_se_asigne_usuario_actual_como_propietario(mon
 
 # CASO DE PRUEBA PM12-TC-14
 def test_eliminar_proyecto_existente():
+    #Se crea una instancia del storage
     storage = StorageManager()
-    proyecto1 = Proyecto("Hormiga dc","","")
-    r1 = storage.guardar_proyecto(proyecto1)
+    #Se crea un proyecto
+    proyecto1 = Proyecto("Hormiga","","")
+    # Se guarda el proyecto 1
+    storage.guardar_proyecto(proyecto1)
+    #Se guarda el proyecto id
     proyecto_id=proyecto1.proyecto_id
+    # Se elimina el proyecto
     storage.eliminar_proyecto(proyecto_id)
     datos = storage.cargar_datos()
     proyectos = datos.get("proyectos", [])

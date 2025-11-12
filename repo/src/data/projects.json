@@ -661,6 +661,16 @@
       "miembros": [],
       "fecha_creacion": "2025-11-11T18:09:54.034821",
       "fecha_modificacion": "2025-11-11T18:09:54.034821"
+    },
+    {
+      "proyecto_id": "12f56116-8870-4fd7-b491-d09ca89f4d93",
+      "nombre": "Hormiga",
+      "descripcion": "",
+      "propietario_id": "",
+      "columnas": [],
+      "miembros": [],
+      "fecha_creacion": "2025-11-11T19:34:11.915565",
+      "fecha_modificacion": "2025-11-11T19:34:11.915565"
     }
   ],
   "usuarios": [
@@ -1245,6 +1255,24 @@
       "nombre": "jose",
       "email": "alexander.suarezg@gmail.com",
       "fecha_creacion": "2025-11-11T18:09:53.858415"
+    },
+    {
+      "usuario_id": "e276976d-14b2-4acd-8030-0c20d2d10831",
+      "nombre": "jhon",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T19:34:11.747206"
+    },
+    {
+      "usuario_id": "afb277c2-7d28-459d-9877-08276a8d7275",
+      "nombre": "alex",
+      "email": "alexander.suarez20@gmail.com",
+      "fecha_creacion": "2025-11-11T19:34:11.751207"
+    },
+    {
+      "usuario_id": "7b5037e8-4bc0-43d7-9b1c-39ecec5fbd33",
+      "nombre": "jose",
+      "email": "alexander.suarezg@gmail.com",
+      "fecha_creacion": "2025-11-11T19:34:11.815038"
     }
   ]
 }
