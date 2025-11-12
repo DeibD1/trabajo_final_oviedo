@@ -16,3 +16,18 @@ Thumbs.db
 # Archivos de entorno de desarrollo
 .vscode/
 .idea/
+
+# Python
+__pycache__/
+*.pyc
+
+# entorno
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# SO
+.DS_Store
+Thumbs.db
